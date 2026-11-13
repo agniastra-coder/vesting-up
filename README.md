@@ -36,6 +36,4 @@ Most retail beginners enter the stock market without understanding risk manageme
 ### 🚀 Running Locally
 
 1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/agniastra-coder/vesting-up.git](https://github.com/agniastra-coder/vesting-up.git)
-   cd vesting-up
+ git clone https://github.com/agniastra-coder/vesting-up.git
