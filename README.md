@@ -20,7 +20,7 @@ Most retail beginners enter the stock market without understanding risk manageme
 
 ### 🛠️ Tech Stack
 * **Frontend:** React / Next.js, Tailwind CSS, JavaScript (ES6+)
-* **Backend & Auth:** Node.js / Express *(or Firebase/Supabase — update to match your backend)*
+* **Backend & Auth:** Node.js / Express 
 * **AI Integration:** LLM API powering the *Atlas* mentor workflow
 * **Deployment:** Vercel
 
